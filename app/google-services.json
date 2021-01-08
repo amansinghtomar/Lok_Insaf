@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574840160633",
+    "project_id": "lok-insaf-party",
+    "storage_bucket": "lok-insaf-party.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574840160633:android:56c3ad0de538cc5435afa8",
+        "android_client_info": {
+          "package_name": "com.example.lokinsafparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574840160633-jgavqojpaai7genmvn00ult38833mj6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptBGZd_NWGsUD0Rnq8kfOuFL7F9tubAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574840160633-jgavqojpaai7genmvn00ult38833mj6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
